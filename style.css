@@ -1,0 +1,94 @@
+body{
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: gray;
+}
+
+h1{
+    color: blue;
+    font-size: 52px;
+}
+
+.big-text{
+    font-size: 42px;
+}
+
+.top-banner{
+    background-image: url("images/backgrounds/header-bg.png");
+    height: 750px;
+    background-repeat: no-repeat;
+    padding:5%;
+}
+
+.hero-content{
+    width:45%;
+    float: left;
+    padding-top: 180px;
+    padding-bottom: 100px;
+    padding-left: 160px;
+    /* background-color: lightgreen; */
+}
+
+.hero-image{
+    width: 45%;
+    float: left;
+    /* background-color: lightpink; */
+}
+
+.banner-image{
+    width: 100%;
+}
+
+.click-button{
+    text-decoration: none;
+    background-image: linear-gradient(180deg, blue,cyan);
+    padding: 10px 35px;
+    border-radius: 5px;
+}
+
+
+/* <!-- Biography section starts here --> */
+
+.biography-banner{
+    background-image: url("images/backgrounds/biography-bg.png");
+    height: 700px;
+    background-repeat: no-repeat;
+    padding: 5%;
+
+
+}
+
+.biography-image{
+    width: 45%;
+    float: left;
+    /* background-color: lightgrey; */
+
+}
+
+
+.biography-content{
+    width: 51%;
+    float: left;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-left: 50px;
+    /* background-color: lightgreen; */
+
+}
+
+/* <!-- Biography section ends here -->
+
+    <!-- Latest work section starts here --> */
+
+    .latest-work{
+        width: 30%;
+        height: 100px;
+
+    }
+
+    .one-third-width{
+        /* width: 30%;
+        height: 100px; */
+    }
