@@ -87,7 +87,7 @@ h2{
     <!-- Latest work section starts here --> */
 
 .latest-work{
-     background-image: url("images/backgrounds/latest-work-bg.png");
+    background-image: url("images/backgrounds/latest-work-bg.png");
     background-repeat: no-repeat;
     background-position: center;
     height: 1000px;
@@ -95,12 +95,12 @@ h2{
 }
 .latest-work-sample{
     width: 90%;
-    padding: 5%;
+    margin: 5%;
 }
 
 .one-third-width{
-    width: 28%;
-    height: 60px;
+    width: 29%;
+    /* height: 60px; */
     float: left;
     padding: 2%;
 
